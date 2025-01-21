@@ -1,6 +1,5 @@
 # Planetary Processing Unreal SDK
 
-SDK for using Planetary Processing's online gaming platform with Unreal Engine.
+This is no longer available on GitHub due to the large files required being too large for GitHub, please see our docs below for more information.
 
-# Full Documentation
-Available at [docs.planetaryprocessing.io](https://docs.planetaryprocessing.io/).
+Full Documentation and Sourcecode Available at [docs.planetaryprocessing.io](https://docs.planetaryprocessing.io/).
